@@ -1,6 +1,6 @@
 # JatssMovie - CMS
 
-Aplikasi mobile untuk memudahkan eksplorasi film, dengan referensi dari IMDb
+Aplikasi Web untuk memudahkan eksplorasi film, dengan referensi dari IMDb, ditambahkan fitur CMS untuk admin
 
 ## Admin
 
@@ -8,7 +8,12 @@ Aplikasi mobile untuk memudahkan eksplorasi film, dengan referensi dari IMDb
 
 ## Public
 
+#### Home
+
 <img  alt="image" src="./assets/client-home.png">
+
+#### Detail
+
 <img  alt="image" src="./assets/client-detail.PNG">
 
 ## Features
